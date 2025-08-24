@@ -1,5 +1,6 @@
 # latihan-github-dicoding4-squash
-haloo
+halo
 hai
 hola
 hello
+hi
